@@ -127,6 +127,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="closeBtn\x.png" />
+    <None Include="Resources\la nature.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
