@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group1ImageSegregationSystem", "Group1ImageSegregationSystem\Group1ImageSegregationSystem.csproj", "{44CDD2B6-01F0-46AB-B548-2ACA9C80D6BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CDD2B6-01F0-46AB-B548-2ACA9C80D6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CDD2B6-01F0-46AB-B548-2ACA9C80D6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CDD2B6-01F0-46AB-B548-2ACA9C80D6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CDD2B6-01F0-46AB-B548-2ACA9C80D6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC6B37D-3CCD-4BB5-9913-550CF5B9E5A8}
+	EndGlobalSection
+EndGlobal
