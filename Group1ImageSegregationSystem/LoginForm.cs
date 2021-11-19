@@ -69,8 +69,6 @@ namespace Group1ImageSegregationSystem
             }
         }
 
-       
-
         private void panel_login_bar_Paint(object sender, PaintEventArgs e)
         {
 
